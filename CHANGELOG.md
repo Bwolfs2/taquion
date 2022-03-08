@@ -1,3 +1,10 @@
+## 0.0.3
+* Implementacao do Service Locator mais rapido do Mundo!!!!
+
+## 0.0.2
+
+* Atualizacao do Git / Publicacao
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Primeira publicacao

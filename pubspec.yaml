@@ -1,7 +1,7 @@
 name: taquion
-description: O melhor projeto do Pub =D
-version: 0.0.1
-homepage:
+description: A Service Locator mais rapido de todos os universos!!!!!
+version: 0.0.3
+repository: https://github.com/Bwolfs2/taquion.git
 
 
 environment:
