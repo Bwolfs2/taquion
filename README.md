@@ -1,39 +1,22 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+## History
+Um táquion (do grego ταχυόνιον, takhyónion, de ταχύς, takhýs, i.e. "rápido", "veloz") é uma partícula hipotética cuja velocidade excede a velocidade da luz (v > c). 
+Embora não seja possível acelerar uma partícula com massa até que ela atinja ou ultrapasse a velocidade da luz, segundo a Teoria da Relatividade Especial, esta não impede a existência de partículas com velocidade superior à da luz em seu estado natural.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+## WHAT WE DO
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Esse package existe para ser o Service Locator mais rapido de todos os universos, se voce achar 
+um package mais rapido, provavelmente ele tem algum problema porque o mais rapido é e sempre sera
+esse.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
 
 ```dart
-const like = 'sample';
+Controller controller = Taquion.take(() => Controller());
 ```
 
-## Additional information
+```dart
+Controller controller = Taquion.dispose<Controller>();
+```
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
