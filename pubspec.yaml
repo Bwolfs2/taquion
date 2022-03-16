@@ -1,7 +1,7 @@
 name: taquion
 description: A Service Locator mais rapido de todos os universos!!!!!
-version: 0.0.4
-repository: https://github.com/Bwolfs2/taquion.git
+version: 0.0.5
+repository: https://github.com/Bwolfs2/taquion
 
 
 environment:

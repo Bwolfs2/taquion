@@ -1,3 +1,6 @@
+## 0.0.5
+* Fix Bug 404
+
 ## 0.0.4
 * Melhorias no TAKE
 * Adicionamos uma Extension pra Dispose
